@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Raquela Ingra",
+    "Email": "DebeeVinsgmail.com",
+    "Salary": 41.016,
+    "DateOfBirth": "1995-01-27",
+    "Department": "Marketing"
+  },
+  {
+    "Name": "Elyssa Laverne",
+    "Email": "RozTelfergmail.com",
+    "Salary": 59.476,
+    "DateOfBirth": "1992-05-24",
+    "Department": "Sales"
+  },
+  {
+    "Name": "Marcelline Caitlin",
+    "Email": "TamiFlitagmail.com",
+    "Salary": 97.779,
+    "DateOfBirth": "1998-10-24",
+    "Department": "Marketing"
+  },
+  {
+    "Name": "Britte Elo",
+    "Email": "IsaEsmariagmail.com",
+    "Salary": 43.211,
+    "DateOfBirth": "1996-04-27",
+    "Department": "IT"
+  },
+  {
+    "Name": "Hayley Glenden",
+    "Email": "KirbeeAshokgmail.com",
+    "Salary": 39.831,
+    "DateOfBirth": "1994-12-27",
+    "Department": "Marketing"
+  }
+]

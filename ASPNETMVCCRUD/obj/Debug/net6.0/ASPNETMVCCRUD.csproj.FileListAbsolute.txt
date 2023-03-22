@@ -85,3 +85,4 @@ D:\C hashtag\ASPNETMVCCRUD\ASPNETMVCCRUD\obj\Debug\net6.0\refint\ASPNETMVCCRUD.d
 D:\C hashtag\ASPNETMVCCRUD\ASPNETMVCCRUD\obj\Debug\net6.0\ASPNETMVCCRUD.pdb
 D:\C hashtag\ASPNETMVCCRUD\ASPNETMVCCRUD\obj\Debug\net6.0\ASPNETMVCCRUD.genruntimeconfig.cache
 D:\C hashtag\ASPNETMVCCRUD\ASPNETMVCCRUD\obj\Debug\net6.0\ref\ASPNETMVCCRUD.dll
+D:\C hashtag\ASPNETMVCCRUD\ASPNETMVCCRUD\bin\Debug\net6.0\employees.json
