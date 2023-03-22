@@ -30,6 +30,12 @@ namespace ASPNETMVCCRUD.Controllers
         }
 
 
+        [HttpGet]
+        public async Task Test()
+        {
+            
+        }
+
         [HttpPost]
         public async Task<IActionResult> Add(EmployeeDTO employeeDTO)
         {
