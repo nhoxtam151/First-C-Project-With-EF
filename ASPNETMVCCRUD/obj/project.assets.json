@@ -3509,19 +3509,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Tam\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C hashtag\\ASPNETMVCCRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj",
+      "projectUniqueName": "C:\\Users\\Tam\\Desktop\\entity framework example\\First-C-Project-With-EF\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj",
       "projectName": "ASPNETMVCCRUD",
-      "projectPath": "D:\\C hashtag\\ASPNETMVCCRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\C hashtag\\ASPNETMVCCRUD\\ASPNETMVCCRUD\\obj\\",
+      "projectPath": "C:\\Users\\Tam\\Desktop\\entity framework example\\First-C-Project-With-EF\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj",
+      "packagesPath": "C:\\Users\\Tam\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tam\\Desktop\\entity framework example\\First-C-Project-With-EF\\ASPNETMVCCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3577,7 +3577,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
